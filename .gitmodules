@@ -1,3 +1,3 @@
 [submodule "drone-ci/gogs-drone-ci"]
-	path = drone-ci/gogs-drone-ci
+	path = gogs-drone-ci
 	url = git@github.com:BastienM/gogs-drone-compose.git
