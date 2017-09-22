@@ -1,4 +1,0 @@
-REMOTE_DRIVER=gogs
-REMOTE_CONFIG=http://192.168.33.15:9080/?open=false
-DATABASE_DRIVER=postgres
-DATABASE_CONFIG=postgres://root:admin@192.168.33.15:5432/gogs?sslmode=disable
